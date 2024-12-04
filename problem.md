@@ -1,6 +1,6 @@
 # C2_Talk_2_ME
 
-- Namespace: challenges
+- Namespace: picoctf/18739f24
 - ID: C2_Talk_2_ME
 - Type: custom
 - Category: Reverse Engineering
@@ -41,3 +41,4 @@ Expose players to basic binary patching and protocol analysis
 ## Attributes
 
 - author: Kevin
+- event: 18739 CTF
